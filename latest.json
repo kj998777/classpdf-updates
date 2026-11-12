@@ -1,9 +1,10 @@
 {
-  "version": "1.12.1",
+  "version": "1.13.0",
   "shell": "electron@45.0.0+koffi@2.16.3",
-  "asar": "app-1.12.1.asar.gz",
-  "sha256": "0d1a6a62f248350f08de5496ed30d21127ff469ee0698d64e692c8225e65d6f2",
-  "notes": "고른 도구가 늘 보이게 — ⋯ 안에 숨은 도구(선택·레이저·기화펜·가림막·문제 영역 등)를 쓰는 중이면 ⋯ 단추가 그 도구 아이콘으로 초록색 켜짐 · ⋯ 메뉴에도 지금 도구 표시 · 수업 모드 중 펜슬 쥐기 판·지우개 자동 복귀가 수업 막대와 어긋나던 것 고침",
-  "at": "2026-11-09T07:09:16.323Z",
+  "asar": "app-1.13.0.asar.gz",
+  "sha256": "becd8f8ae095077943bc73badd6b83c62e6434864a87c4136e51146cdbf69bd8",
+  "sig": "/D9Bs2zOVYOTWywCF8eqQbrjww1nAmxvXK7TUPG16bnzn6DGB60dx1p/oUfS4TNEgLKckEpT2VFOhMJfmY/LBg==",
+  "notes": "스캔본(글자 없는 PDF)도 검색돼요 · PDF 링크를 꾹 누르면 열려요 · 그림 이름표 자동 테이프가 더 정확해졌어요 · 설정에 '글자 인식' 추가 · 앱 이름이 잉크오버로 바뀌었어요",
+  "at": "2026-11-12T02:52:44.404Z",
   "full": {}
 }
