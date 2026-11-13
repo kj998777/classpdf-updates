@@ -1,10 +1,10 @@
 {
-  "version": "1.13.0",
+  "version": "1.14.0",
   "shell": "electron@45.0.0+koffi@2.16.3",
-  "asar": "app-1.13.0.asar.gz",
-  "sha256": "becd8f8ae095077943bc73badd6b83c62e6434864a87c4136e51146cdbf69bd8",
-  "sig": "/D9Bs2zOVYOTWywCF8eqQbrjww1nAmxvXK7TUPG16bnzn6DGB60dx1p/oUfS4TNEgLKckEpT2VFOhMJfmY/LBg==",
-  "notes": "스캔본(글자 없는 PDF)도 검색돼요 · PDF 링크를 꾹 누르면 열려요 · 그림 이름표 자동 테이프가 더 정확해졌어요 · 설정에 '글자 인식' 추가 · 앱 이름이 잉크오버로 바뀌었어요",
-  "at": "2026-11-12T02:52:44.404Z",
+  "asar": "app-1.14.0.asar.gz",
+  "sha256": "5c798dc497099e6421c988e71073098aa8885c88d442d0c09852e9e4d5ddd065",
+  "sig": "H4LBV+OU+1ZhXStLayFuMZIS7WlDcpwTmaU56FmIMDMVTJD0un7b9t9rFJxW+skc6Uc3leCv+OFsu+O4FZUABg==",
+  "notes": "문제 찾기가 개념 교재·스캔본에서도 훨씬 정확해졌어요(설명 제목·풀이 속 숫자 제외, 빠진 번호 되살리기) · 단어를 검색하면 옆 '검색' 탭에 결과 목록이 떠요 · 해설지·필기 노트는 문제로 잡지 않아요 · 영어·한글 이름표를 테이프 하나로 가려요 · 암호 걸린 PDF 열기",
+  "at": "2026-11-13T23:50:35.817Z",
   "full": {}
 }
