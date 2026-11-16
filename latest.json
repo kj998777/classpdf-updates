@@ -1,10 +1,10 @@
 {
-  "version": "1.18.0",
+  "version": "1.18.1",
   "shell": "electron@45.0.0+koffi@2.16.3",
-  "asar": "app-1.18.0.asar.gz",
-  "sha256": "acf122894438bb3036c95bdf2fb7ce0b59a0b99cb241f0fc105b6af66e907a1c",
-  "sig": "Pl4jMW08gtph8L1wLSE2C5617awZ+6COrel0YWSep8HzPyVvbEdTjQ7XznYq9gBhPvFqg6tummrdb4qlnCLfCQ==",
-  "notes": "영어판(기기 언어로 자동·설정에서 바꿈), 메뉴·확인창 영어, 큰 PDF 쪽 목록 빨라짐, 굿노트에서 가져온 노트 한글 검색 바로, 화면 다듬기",
-  "at": "2026-11-16T11:14:29.248Z",
+  "asar": "app-1.18.1.asar.gz",
+  "sha256": "dc4041a406a1e54050a5926a98d7e1f6974cfb81ad0b7236fe643bd95aee9a88",
+  "sig": "OnZfum9WrAU/HE1G6zpp8a4xMjoHF82OVdZ2LYjYL3vb+EYGX6rSkwvJyD3XJdJvQt0MpkiKh6Mj0BBN50x6BQ==",
+  "notes": "그림 이름표 가리기: 한 줄에 한글+영어인 이름표가 촘촘히 쌓여도 줄마다 따로 가림 · 위 막대 쪽 번호가 옆 블록과 겹치지 않게",
+  "at": "2026-11-16T11:49:52.274Z",
   "full": {}
 }
