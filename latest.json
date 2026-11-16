@@ -1,10 +1,10 @@
 {
-  "version": "1.17.1",
+  "version": "1.18.0",
   "shell": "electron@45.0.0+koffi@2.16.3",
-  "asar": "app-1.17.1.asar.gz",
-  "sha256": "787f9975a52b1655f27b263f17a9fee7e75c2f80522c20bcae6cadec14d233aa",
-  "sig": "kRg+gRo2emRX8nX1uMxM+qkuL6Mfc91BSvkrSyJ5i0EoxP6vS52AT2i2HHhboSdF9kn8rdy1+AgO4FBLaC9jBg==",
-  "notes": "도구 모음에 '글자 인식 (OCR)' 단추 — 스캔본·글자가 깨진 PDF를 뒤에서 읽어 저장, 찾기가 바로 · 막대 단추를 ⋯ 단추에 끌어 넣기 고침",
-  "at": "2026-11-16T03:24:18.574Z",
+  "asar": "app-1.18.0.asar.gz",
+  "sha256": "acf122894438bb3036c95bdf2fb7ce0b59a0b99cb241f0fc105b6af66e907a1c",
+  "sig": "Pl4jMW08gtph8L1wLSE2C5617awZ+6COrel0YWSep8HzPyVvbEdTjQ7XznYq9gBhPvFqg6tummrdb4qlnCLfCQ==",
+  "notes": "영어판(기기 언어로 자동·설정에서 바꿈), 메뉴·확인창 영어, 큰 PDF 쪽 목록 빨라짐, 굿노트에서 가져온 노트 한글 검색 바로, 화면 다듬기",
+  "at": "2026-11-16T11:14:29.248Z",
   "full": {}
 }
