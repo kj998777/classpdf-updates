@@ -1,10 +1,10 @@
 {
-  "version": "1.18.1",
+  "version": "1.18.2",
   "shell": "electron@45.0.0+koffi@2.16.3",
-  "asar": "app-1.18.1.asar.gz",
-  "sha256": "dc4041a406a1e54050a5926a98d7e1f6974cfb81ad0b7236fe643bd95aee9a88",
-  "sig": "OnZfum9WrAU/HE1G6zpp8a4xMjoHF82OVdZ2LYjYL3vb+EYGX6rSkwvJyD3XJdJvQt0MpkiKh6Mj0BBN50x6BQ==",
-  "notes": "그림 이름표 가리기: 한 줄에 한글+영어인 이름표가 촘촘히 쌓여도 줄마다 따로 가림 · 위 막대 쪽 번호가 옆 블록과 겹치지 않게",
-  "at": "2026-11-16T11:49:52.274Z",
+  "asar": "app-1.18.2.asar.gz",
+  "sha256": "8c427c18d3848df6000047ac898df2c14bbb0edf897518c576525c280d50f11e",
+  "sig": "kjGklcBM+ICko5mxGa5aPzPkIlhl5UAVVpMKIFiDejNhbNUtwEfpX9hpEPWsw4XRTlrTUODOpv5hNScYg/LKCw==",
+  "notes": "그림 이름표 가리기: 한글 아래 영어가 두 줄로 넘어가도 한 테이프 · 한글·영어 짝을 그림마다 더 정확히 묶음 · 다른 이름표끼리 묶이던 것 줄임",
+  "at": "2026-11-16T12:44:37.473Z",
   "full": {}
 }
