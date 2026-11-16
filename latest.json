@@ -1,10 +1,10 @@
 {
-  "version": "1.17.0",
+  "version": "1.17.1",
   "shell": "electron@45.0.0+koffi@2.16.3",
-  "asar": "app-1.17.0.asar.gz",
-  "sha256": "f70e64768c719f0d9a0e9ec7c47337209f74519db49b4e1e02c3dc96819fcf31",
-  "sig": "jnNUMOgEZ3OH+MxkKmEyS4LcpN0bliVHA0wo/D5cu/GZle4lL8rwOyS0hGW1Uk5BTkH5TNsGskDkoDQ8psvNDQ==",
-  "notes": "도구 막대 간단해짐(펜·지우개·색·되돌리기 + 더 보기 판, 끌어서 고정·빼기, 묶음) · 쪽 표시 누르면 쪽 찾기 · 한글이 깨진 OCR 판도 한글 검색 · 스캔본 문제 찾기 보강·인식 결과 저장 · 단어 가리기 이름표 고침",
-  "at": "2026-11-16T02:18:20.403Z",
+  "asar": "app-1.17.1.asar.gz",
+  "sha256": "787f9975a52b1655f27b263f17a9fee7e75c2f80522c20bcae6cadec14d233aa",
+  "sig": "kRg+gRo2emRX8nX1uMxM+qkuL6Mfc91BSvkrSyJ5i0EoxP6vS52AT2i2HHhboSdF9kn8rdy1+AgO4FBLaC9jBg==",
+  "notes": "도구 모음에 '글자 인식 (OCR)' 단추 — 스캔본·글자가 깨진 PDF를 뒤에서 읽어 저장, 찾기가 바로 · 막대 단추를 ⋯ 단추에 끌어 넣기 고침",
+  "at": "2026-11-16T03:24:18.574Z",
   "full": {}
 }
