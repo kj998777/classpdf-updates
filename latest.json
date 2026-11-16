@@ -1,10 +1,10 @@
 {
-  "version": "1.16.0",
+  "version": "1.17.0",
   "shell": "electron@45.0.0+koffi@2.16.3",
-  "asar": "app-1.16.0.asar.gz",
-  "sha256": "6a6e0484238656d50d7d144cb219270f7142476565a4d58d3eda7082770f7093",
-  "sig": "BPYH3fKvYBqTOKubvKyf9aNHm7OM7lb2xTWJvAiiWMe6qPO2V6UXMSXOXtTwi1P7wKXSGNg0b24l+63N7xpmDg==",
-  "notes": "도구 막대가 간단해졌어요: 더 보기(⋯)에서 이름 붙은 도구를 끌어 고정하고, 막대 단추는 꾹 눌러 옮겨요. 스캔본 문제 찾기(올림포스 등)가 빠뜨리던 번호를 찾고, 여러 줄 이름표가 테이프 하나로 붙어요",
-  "at": "2026-11-15T14:17:45.675Z",
+  "asar": "app-1.17.0.asar.gz",
+  "sha256": "f70e64768c719f0d9a0e9ec7c47337209f74519db49b4e1e02c3dc96819fcf31",
+  "sig": "jnNUMOgEZ3OH+MxkKmEyS4LcpN0bliVHA0wo/D5cu/GZle4lL8rwOyS0hGW1Uk5BTkH5TNsGskDkoDQ8psvNDQ==",
+  "notes": "도구 막대 간단해짐(펜·지우개·색·되돌리기 + 더 보기 판, 끌어서 고정·빼기, 묶음) · 쪽 표시 누르면 쪽 찾기 · 한글이 깨진 OCR 판도 한글 검색 · 스캔본 문제 찾기 보강·인식 결과 저장 · 단어 가리기 이름표 고침",
+  "at": "2026-11-16T02:18:20.403Z",
   "full": {}
 }
