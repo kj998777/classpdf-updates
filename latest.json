@@ -1,10 +1,10 @@
 {
-  "version": "1.18.2",
+  "version": "1.18.3",
   "shell": "electron@45.0.0+koffi@2.16.3",
-  "asar": "app-1.18.2.asar.gz",
-  "sha256": "8c427c18d3848df6000047ac898df2c14bbb0edf897518c576525c280d50f11e",
-  "sig": "kjGklcBM+ICko5mxGa5aPzPkIlhl5UAVVpMKIFiDejNhbNUtwEfpX9hpEPWsw4XRTlrTUODOpv5hNScYg/LKCw==",
-  "notes": "그림 이름표 가리기: 한글 아래 영어가 두 줄로 넘어가도 한 테이프 · 한글·영어 짝을 그림마다 더 정확히 묶음 · 다른 이름표끼리 묶이던 것 줄임",
-  "at": "2026-11-16T12:44:37.473Z",
+  "asar": "app-1.18.3.asar.gz",
+  "sha256": "56cf675653af03a56db60bd0b926c2575993466935cdaa6fc132b0e2940d4f7a",
+  "sig": "S7c6rqbuAXTyQcJYLBAkkSjGtwE03j4ZtSiYBPQT4/zUEPEmr1xCjZRHZRG1gjbPdwN0yUWd7ItAiYR4PlcYCg==",
+  "notes": "그림 이름표 가리기 더 정확히(옆 이름표가 붙은 줄 나눔) · 꾸미기 판·사진 판이 Esc·수업 모드로 닫힘 · 동기화 설정에 폴더 이름 · 안드로이드 준비(펜 지연·암호 PDF·구글 드라이브 동기화)",
+  "at": "2026-11-16T18:38:41.863Z",
   "full": {}
 }
