@@ -1,10 +1,10 @@
 {
-  "version": "1.18.3",
+  "version": "1.18.4",
   "shell": "electron@45.0.0+koffi@2.16.3",
-  "asar": "app-1.18.3.asar.gz",
-  "sha256": "56cf675653af03a56db60bd0b926c2575993466935cdaa6fc132b0e2940d4f7a",
-  "sig": "S7c6rqbuAXTyQcJYLBAkkSjGtwE03j4ZtSiYBPQT4/zUEPEmr1xCjZRHZRG1gjbPdwN0yUWd7ItAiYR4PlcYCg==",
-  "notes": "그림 이름표 가리기 더 정확히(옆 이름표가 붙은 줄 나눔) · 꾸미기 판·사진 판이 Esc·수업 모드로 닫힘 · 동기화 설정에 폴더 이름 · 안드로이드 준비(펜 지연·암호 PDF·구글 드라이브 동기화)",
-  "at": "2026-11-16T18:38:41.863Z",
+  "asar": "app-1.18.4.asar.gz",
+  "sha256": "3103e11c2b59fb07990f96400f5c921aa80c292cd759a35aa3707b4e24eef203",
+  "sig": "YU9SZ7jOwjMSoYNv7QgnCGDLW9N9n9o4PBXonGoy1CBj7QwWlGTEh+b/Ye7o5VBxAE4wzaajo53hn9bYTLCVCg==",
+  "notes": "PPT·워드 열기(키노트·Pages로 PDF 변환) · 받아쓰기(기기 안 Whisper, 처음 한 번 모델 받기) · 모드 1·2 이름 바꾸기 · 아래 상태 줄 없애 화면 넓게 · 녹음 막대 작게 접기 · 손가락 톡으로 파란 점 닫기",
+  "at": "2026-11-17T04:31:50.824Z",
   "full": {}
 }
