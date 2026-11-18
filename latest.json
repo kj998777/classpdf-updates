@@ -1,10 +1,10 @@
 {
-  "version": "1.18.4",
+  "version": "1.18.5",
   "shell": "electron@45.0.0+koffi@2.16.3",
-  "asar": "app-1.18.4.asar.gz",
-  "sha256": "3103e11c2b59fb07990f96400f5c921aa80c292cd759a35aa3707b4e24eef203",
-  "sig": "YU9SZ7jOwjMSoYNv7QgnCGDLW9N9n9o4PBXonGoy1CBj7QwWlGTEh+b/Ye7o5VBxAE4wzaajo53hn9bYTLCVCg==",
-  "notes": "PPT·워드 열기(키노트·Pages로 PDF 변환) · 받아쓰기(기기 안 Whisper, 처음 한 번 모델 받기) · 모드 1·2 이름 바꾸기 · 아래 상태 줄 없애 화면 넓게 · 녹음 막대 작게 접기 · 손가락 톡으로 파란 점 닫기",
-  "at": "2026-11-17T04:31:50.824Z",
+  "asar": "app-1.18.5.asar.gz",
+  "sha256": "9bddd1186e8d46428251e080cba0f241b0402a52a1ec4b2e2343e2ff014a9847",
+  "sig": "LKN1A9ziRAMUJiivS3hHVUAxMqVGl1ZMeycIVAvHoKsVfRB7NyvsdD0yB4P5t5MJQlPIXVZDSKpGU3fbEUCZDg==",
+  "notes": "받아쓰기가 앱을 멈추지 않게 (따로 돌림) · 멈추기 단추·남은 시간 · 다 쓰면 메모리 돌려받음",
+  "at": "2026-11-18T02:12:20.860Z",
   "full": {}
 }
