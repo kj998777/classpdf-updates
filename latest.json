@@ -1,10 +1,10 @@
 {
-  "version": "1.18.7",
+  "version": "1.18.8",
   "shell": "electron@45.0.0+koffi@2.16.3",
-  "asar": "app-1.18.7.asar.gz",
-  "sha256": "4afc94f1e1a96c551fde588eae22780f94fa7a10bb09f5ddec74be6d7e55262a",
-  "sig": "LOey02h7R6wMq+lLL6jfSwBuxfbNTZBHDEZYaDW6qHnitmaAhnW34Exi9gePFtBPNYM0ZvBHLcE65VpPV2wnAQ==",
-  "notes": "설정 창이 머리만 보이고 접히던 것 고침 · 창 높이 안정화",
-  "at": "2026-11-18T05:59:16.179Z",
+  "asar": "app-1.18.8.asar.gz",
+  "sha256": "c6a32c2bbfbdabed1a4928bf17334019b3926712c5eee7a649c95884daefb776",
+  "sig": "qcE/brQoqner9nFkkTlf264GQ0wG9vzhrOSE9DvJXFKyX6Bzaa5eOXVZWa7jHdFJhnF7czSYHyX93iytE3ySAg==",
+  "notes": "첫 화면에 모음함·새 노트 단추 되돌림 · 쪽 추가할 때 종이·크기·넣을 곳·장 수 고르기 · 쪽 목록 꾹 누르기(오른쪽 클릭)로 쪽 복제 · 테이프 복습 간격을 분·시간·일로 · 설정 창 높이 고침",
+  "at": "2026-11-18T13:50:56.789Z",
   "full": {}
 }
