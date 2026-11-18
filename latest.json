@@ -1,10 +1,10 @@
 {
-  "version": "1.18.6",
+  "version": "1.18.7",
   "shell": "electron@45.0.0+koffi@2.16.3",
-  "asar": "app-1.18.6.asar.gz",
-  "sha256": "4246482b1a6c48bfd966e84c6409ee4cd55ca00684a4b53cfcec5d3a2f4cccbc",
-  "sig": "r/UylVeAo5ntIqS3t/1tOQHpekT5NrpUQm96/HXgw4fEXcT3VGVY/E3nNlQMJWXgBVmHp/gHLxKdI+wCHrE3Aw==",
-  "notes": "처음 설정 창 없이 '기본' 도구 막대로 시작 · 녹음 내보내기",
-  "at": "2026-11-18T03:22:04.385Z",
+  "asar": "app-1.18.7.asar.gz",
+  "sha256": "4afc94f1e1a96c551fde588eae22780f94fa7a10bb09f5ddec74be6d7e55262a",
+  "sig": "LOey02h7R6wMq+lLL6jfSwBuxfbNTZBHDEZYaDW6qHnitmaAhnW34Exi9gePFtBPNYM0ZvBHLcE65VpPV2wnAQ==",
+  "notes": "설정 창이 머리만 보이고 접히던 것 고침 · 창 높이 안정화",
+  "at": "2026-11-18T05:59:16.179Z",
   "full": {}
 }
