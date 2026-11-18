@@ -1,10 +1,10 @@
 {
-  "version": "1.18.5",
+  "version": "1.18.6",
   "shell": "electron@45.0.0+koffi@2.16.3",
-  "asar": "app-1.18.5.asar.gz",
-  "sha256": "9bddd1186e8d46428251e080cba0f241b0402a52a1ec4b2e2343e2ff014a9847",
-  "sig": "LKN1A9ziRAMUJiivS3hHVUAxMqVGl1ZMeycIVAvHoKsVfRB7NyvsdD0yB4P5t5MJQlPIXVZDSKpGU3fbEUCZDg==",
-  "notes": "받아쓰기가 앱을 멈추지 않게 (따로 돌림) · 멈추기 단추·남은 시간 · 다 쓰면 메모리 돌려받음",
-  "at": "2026-11-18T02:12:20.860Z",
+  "asar": "app-1.18.6.asar.gz",
+  "sha256": "4246482b1a6c48bfd966e84c6409ee4cd55ca00684a4b53cfcec5d3a2f4cccbc",
+  "sig": "r/UylVeAo5ntIqS3t/1tOQHpekT5NrpUQm96/HXgw4fEXcT3VGVY/E3nNlQMJWXgBVmHp/gHLxKdI+wCHrE3Aw==",
+  "notes": "처음 설정 창 없이 '기본' 도구 막대로 시작 · 녹음 내보내기",
+  "at": "2026-11-18T03:22:04.385Z",
   "full": {}
 }
