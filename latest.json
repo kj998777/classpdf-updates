@@ -1,10 +1,10 @@
 {
-  "version": "1.18.9",
+  "version": "1.18.10",
   "shell": "electron@45.0.0+koffi@2.16.3",
-  "asar": "app-1.18.9.asar.gz",
-  "sha256": "11427436dce8d827f9e50cd88584b0b9f21941806040ef7eb59142470cbd3b7e",
-  "sig": "ftIvak3wiMIkpEx/HCklDheJ63cQUKTB/wNVA8nVza4ai5FXlldCJsF2JEpJw6fg91Fir67gUbgVT+PIclDaDA==",
-  "notes": "출제 범위·순서 섞기·북마크·쪽 크게 보기·쪽 목록에 필기, 도구 칸 1·2·3줄, 조작감 다듬기, 안 쓰는 기능(화면 판서·매쓰플랫 정리·모드 바꾸기) 정리",
-  "at": "2026-11-19T13:42:06.324Z",
+  "asar": "app-1.18.10.asar.gz",
+  "sha256": "1a175f8bf7e69f6bce3ae07917adfa7df893924c7ff2bb948ee3a1bb631a9edc",
+  "sig": "rScmz9A8/XTH8RQY4eTR+8TLEA4cuESPRP9l1pZZnYNgsGX3S8EYVNUJYBXOIsYybkLA1oWE5fLFLdRrKhruAg==",
+  "notes": "아이패드: 쪽 목록과 쪽을 두 손가락으로 번갈아 밀 때 쪽 스크롤이 막히던 것 고침",
+  "at": "2026-11-19T15:30:54.126Z",
   "full": {}
 }
