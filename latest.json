@@ -1,10 +1,10 @@
 {
-  "version": "1.18.8",
+  "version": "1.18.9",
   "shell": "electron@45.0.0+koffi@2.16.3",
-  "asar": "app-1.18.8.asar.gz",
-  "sha256": "c6a32c2bbfbdabed1a4928bf17334019b3926712c5eee7a649c95884daefb776",
-  "sig": "qcE/brQoqner9nFkkTlf264GQ0wG9vzhrOSE9DvJXFKyX6Bzaa5eOXVZWa7jHdFJhnF7czSYHyX93iytE3ySAg==",
-  "notes": "첫 화면에 모음함·새 노트 단추 되돌림 · 쪽 추가할 때 종이·크기·넣을 곳·장 수 고르기 · 쪽 목록 꾹 누르기(오른쪽 클릭)로 쪽 복제 · 테이프 복습 간격을 분·시간·일로 · 설정 창 높이 고침",
-  "at": "2026-11-18T13:50:56.789Z",
+  "asar": "app-1.18.9.asar.gz",
+  "sha256": "11427436dce8d827f9e50cd88584b0b9f21941806040ef7eb59142470cbd3b7e",
+  "sig": "ftIvak3wiMIkpEx/HCklDheJ63cQUKTB/wNVA8nVza4ai5FXlldCJsF2JEpJw6fg91Fir67gUbgVT+PIclDaDA==",
+  "notes": "출제 범위·순서 섞기·북마크·쪽 크게 보기·쪽 목록에 필기, 도구 칸 1·2·3줄, 조작감 다듬기, 안 쓰는 기능(화면 판서·매쓰플랫 정리·모드 바꾸기) 정리",
+  "at": "2026-11-19T13:42:06.324Z",
   "full": {}
 }
