@@ -1,10 +1,10 @@
 {
-  "version": "1.18.10",
+  "version": "1.18.11",
   "shell": "electron@45.0.0+koffi@2.16.3",
-  "asar": "app-1.18.10.asar.gz",
-  "sha256": "1a175f8bf7e69f6bce3ae07917adfa7df893924c7ff2bb948ee3a1bb631a9edc",
-  "sig": "rScmz9A8/XTH8RQY4eTR+8TLEA4cuESPRP9l1pZZnYNgsGX3S8EYVNUJYBXOIsYybkLA1oWE5fLFLdRrKhruAg==",
-  "notes": "아이패드: 쪽 목록과 쪽을 두 손가락으로 번갈아 밀 때 쪽 스크롤이 막히던 것 고침",
-  "at": "2026-11-19T15:30:54.126Z",
+  "asar": "app-1.18.11.asar.gz",
+  "sha256": "0d08537e5de69a651ce1b875b1ff89c00247ef6b4725db907326620d4e903206",
+  "sig": "yvfFoRQ8vw3s1xj+6+9n0Ape3St2o0/gb4aCQghwSsj0sQrn8rq4srmbB5a8eTbh05fKCchjYBgwmbfjaiSrCA==",
+  "notes": "쪽 목록: [고르기]로 여러 쪽 골라 필기 지우기·내보내기·북마크·복제·회전·삭제 · '녹음' 탭(녹음 골라 한 번에 내보내기) · 쪽 왼쪽 위 북마크 단추 · 모눈 쪽·PDF 합치기는 쪽 추가 창으로 · 북마크 동기화·쪽 돌릴 때 북마크·메모 사라지던 것 고침",
+  "at": "2026-11-19T17:18:22.146Z",
   "full": {}
 }
