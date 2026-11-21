@@ -1,10 +1,10 @@
 {
-  "version": "1.18.11",
+  "version": "1.18.12",
   "shell": "electron@45.0.0+koffi@2.16.3",
-  "asar": "app-1.18.11.asar.gz",
-  "sha256": "0d08537e5de69a651ce1b875b1ff89c00247ef6b4725db907326620d4e903206",
-  "sig": "yvfFoRQ8vw3s1xj+6+9n0Ape3St2o0/gb4aCQghwSsj0sQrn8rq4srmbB5a8eTbh05fKCchjYBgwmbfjaiSrCA==",
-  "notes": "쪽 목록: [고르기]로 여러 쪽 골라 필기 지우기·내보내기·북마크·복제·회전·삭제 · '녹음' 탭(녹음 골라 한 번에 내보내기) · 쪽 왼쪽 위 북마크 단추 · 모눈 쪽·PDF 합치기는 쪽 추가 창으로 · 북마크 동기화·쪽 돌릴 때 북마크·메모 사라지던 것 고침",
-  "at": "2026-11-19T17:18:22.146Z",
+  "asar": "app-1.18.12.asar.gz",
+  "sha256": "051b15a1ac79d9da32aa70e3dfc6baaa9b994e5faef3e8ea28589f8ae71a97d0",
+  "sig": "ZTYsjrMTMRdptloP+gT0lxTG8TxUKBI8Wz2grAreGpoi+mY9T4qhXxw02AY+gUyhlmikwH2qvkdOJRuWzkh8AQ==",
+  "notes": "펜 설정 창이 가려지던 것 고침 · 확대한 채 옆으로 밀다 아래로 틀면 바로 따라감(아이패드) · 쪽을 추가해도 확대 그대로 · 아이패드 키보드 안내 정리 · 글자 잘림 고침",
+  "at": "2026-11-21T00:03:51.532Z",
   "full": {}
 }
