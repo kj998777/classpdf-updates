@@ -1,10 +1,10 @@
 {
-  "version": "1.18.12",
+  "version": "1.18.13",
   "shell": "electron@45.0.0+koffi@2.16.3",
-  "asar": "app-1.18.12.asar.gz",
-  "sha256": "051b15a1ac79d9da32aa70e3dfc6baaa9b994e5faef3e8ea28589f8ae71a97d0",
-  "sig": "ZTYsjrMTMRdptloP+gT0lxTG8TxUKBI8Wz2grAreGpoi+mY9T4qhXxw02AY+gUyhlmikwH2qvkdOJRuWzkh8AQ==",
-  "notes": "펜 설정 창이 가려지던 것 고침 · 확대한 채 옆으로 밀다 아래로 틀면 바로 따라감(아이패드) · 쪽을 추가해도 확대 그대로 · 아이패드 키보드 안내 정리 · 글자 잘림 고침",
-  "at": "2026-11-21T00:03:51.532Z",
+  "asar": "app-1.18.13.asar.gz",
+  "sha256": "a1724149c14155a5ff2355f475a2d834527ab9d3ce323313211517630cda6605",
+  "sig": "atMjWPmY5dlCRUIZuI/08CkCDC/G2brD+3SrSMm4gAwtvwhhPQqgBxTPOrEGEZajalmSPu3NXlndV1XZnFS7CA==",
+  "notes": "아이패드 10(iPadOS 18)에서 그림 이름표 가리기가 '글자를 못 찾았어요'로 안 되던 것 고침 · iCloud에만 있는 큰 파일을 열 때 받는 중이라고 바로 보여 주고 더 빨리 열림 · 인쇄 창에 '스캔 쪽 배경 하얗게 (빨리 인쇄)' — 스캔본 인쇄가 빨라짐(색은 그대로)",
+  "at": "2026-11-21T06:26:44.385Z",
   "full": {}
 }
