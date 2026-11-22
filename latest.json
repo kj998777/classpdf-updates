@@ -1,10 +1,10 @@
 {
-  "version": "1.18.13",
+  "version": "1.18.14",
   "shell": "electron@45.0.0+koffi@2.16.3",
-  "asar": "app-1.18.13.asar.gz",
-  "sha256": "a1724149c14155a5ff2355f475a2d834527ab9d3ce323313211517630cda6605",
-  "sig": "atMjWPmY5dlCRUIZuI/08CkCDC/G2brD+3SrSMm4gAwtvwhhPQqgBxTPOrEGEZajalmSPu3NXlndV1XZnFS7CA==",
-  "notes": "아이패드 10(iPadOS 18)에서 그림 이름표 가리기가 '글자를 못 찾았어요'로 안 되던 것 고침 · iCloud에만 있는 큰 파일을 열 때 받는 중이라고 바로 보여 주고 더 빨리 열림 · 인쇄 창에 '스캔 쪽 배경 하얗게 (빨리 인쇄)' — 스캔본 인쇄가 빨라짐(색은 그대로)",
-  "at": "2026-11-21T06:26:44.385Z",
+  "asar": "app-1.18.14.asar.gz",
+  "sha256": "d070d9072c09a82fa1db310cf4141d882b7f0525e5ebe32a31e31f5ded57f960",
+  "sig": "okpmgTtZMhWC/HSlFgmV1SCLwGDCW/p8KGTWcs/+6uKcAGWC5Tg/6mTXQXiOnZAGvuRtXMMrXlEP921VVEzDAg==",
+  "notes": "이름표 가리기: 한 이름표가 테이프 둘로 쪼개지던 것 · 수업 모드 막대 고른 도구 표시가 밀려 보이던 것",
+  "at": "2026-11-22T01:20:46.840Z",
   "full": {}
 }
