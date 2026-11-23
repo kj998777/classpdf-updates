@@ -1,10 +1,10 @@
 {
-  "version": "1.18.14",
+  "version": "1.18.15",
   "shell": "electron@45.0.0+koffi@2.16.3",
-  "asar": "app-1.18.14.asar.gz",
-  "sha256": "d070d9072c09a82fa1db310cf4141d882b7f0525e5ebe32a31e31f5ded57f960",
-  "sig": "okpmgTtZMhWC/HSlFgmV1SCLwGDCW/p8KGTWcs/+6uKcAGWC5Tg/6mTXQXiOnZAGvuRtXMMrXlEP921VVEzDAg==",
-  "notes": "이름표 가리기: 한 이름표가 테이프 둘로 쪼개지던 것 · 수업 모드 막대 고른 도구 표시가 밀려 보이던 것",
-  "at": "2026-11-22T01:20:46.840Z",
+  "asar": "app-1.18.15.asar.gz",
+  "sha256": "3a31e9011acde320332f029f49a47fc71741e9f9a351ebcf94a48f6429d61a2f",
+  "sig": "MR3yaPOYU+Fv/YQSj29Hw7iqlQd0vLvr5LR848QIUbvl26ObhnDigtyzwJWBzuez6WxMaLAQNqSAPaRltlaBDA==",
+  "notes": "아이패드: 확대한 채 쪽 넘기기를 굿노트처럼(쪽 끝에서 고무줄처럼 멈추고, 더 당기면 옆 쪽 끝으로 넘어감) · 필기가 떼자마자 안 보이던 현상 보강. 컴퓨터판은 바뀐 것 없이 버전만 맞춤.",
+  "at": "2026-11-23T01:12:09.869Z",
   "full": {}
 }
