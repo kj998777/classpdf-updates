@@ -1,10 +1,14 @@
 {
-  "version": "1.18.16",
-  "shell": "electron@45.0.0+koffi@2.16.3",
-  "asar": "app-1.18.16.asar.gz",
-  "sha256": "f9856ee8490766d30c7c34ffb40a7c66b80fa93dbd59f6152496940877bf62c7",
-  "sig": "25H50mCtG8Bw98FFQDRq94y64Mtw4CbuRVfPeRRsvWpadjzyXZUH2MEbSiiHK9tKhAnMkOouBTzI+gwxN1M+Dw==",
-  "notes": "쪽 크게 보기: 빨리 넘길 때 지나간 쪽은 그리지 않음(그리는 양 약 87% 줄임) · 화면에서 멀어진 쪽 그림은 내려놓아 메모리 절약 · 아이패드: 큰 스캔 교재 쪽 목록에서 앱이 꺼지던 것 막기, 메모리 예산.",
-  "at": "2026-11-23T08:03:45.555Z",
-  "full": {}
+  "version": "1.19.0",
+  "shell": "electron@45.0.0+koffi@2.16.3+key2",
+  "asar": "app-1.19.0.asar.gz",
+  "sha256": "75547ba25eb703ac4cbcf0f4d7eceec0d30648bb12e728d9511113fbe39ad21b",
+  "sig": "zL4zmdd8imI58mN8ljEosh6xwRkKRawRcg00cQFvVIBsKwjfkuhAZnse0GntNQS8Zc6OogybQom32dfynFJkAw==",
+  "notes": "새 버전은 한 번 새로 설치해야 해요(업데이트 서명 키를 바꿈). 수업 모드: 나가기 단추를 왼쪽 위로(설정에서 오른쪽으로), 처음 들어갈 때 설명 카드 · 지우개로 화면을 터치했을 때 동그라미가 남던 것 고침 · 안내 문구를 쉽게 고침 · PDF 안 링크로 같은 폴더의 다른 PDF 열기.",
+  "at": "2026-11-25T01:18:48.988Z",
+  "full": {
+    "macArm": "https://github.com/kj998777/classpdf-updates/raw/main/full/1.19.0/ClassPDF-1.19.0-mac-arm64.zip",
+    "macIntel": "https://github.com/kj998777/classpdf-updates/raw/main/full/1.19.0/ClassPDF-1.19.0-mac-x64.zip",
+    "win": "https://github.com/kj998777/classpdf-updates/raw/main/full/1.19.0/ClassPDF-Setup-1.19.0.exe"
+  }
 }
